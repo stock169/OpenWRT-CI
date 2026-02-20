@@ -1,2 +1,6 @@
+#设备平台
+CONFIG_TARGET_armsr=y
 CONFIG_TARGET_armsr_armv8=y
+#设备列表
 CONFIG_TARGET_armsr_armv8_DEVICE_generic=y
+#WIFI驱动
